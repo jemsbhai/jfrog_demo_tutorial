@@ -5,5 +5,8 @@ This repository contains materials for the
 Lightning talk and tutorial  
 
 
+# update: This company made me build a project for them as part of an interview process, and then informed me the position no longer existed.  Avoid JFROG  
+
+
 
     *Muntaser Syed*
